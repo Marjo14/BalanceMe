@@ -1,6 +1,13 @@
 🎯 Objectif du projet
 
-L’objectif de BalanceMe est d’aider les personnes stressées par le manque de visibilité budgétaire à comprendre l’impact réel d’un achat sur leur budget, en calculant leur reste-à-vivre et en intégrant l’impact émotionnel dans la prise de décision.
-Cette application répond au besoin de visibilité financière, car beaucoup d’achats sont guidés par les émotions et l’impulsivité.
-Le but final est d’éviter le découvert et d’aider l’utilisateur à prendre conscience de l’impact réel de chaque dépense avant de la concrétiser.
-Dans un contexte où le découvert bancaire est désormais limité à –200€ pour les nouveaux comptes, BalanceMe accompagne les personnes les plus fragiles pour éviter les frais, les blocages bancaires et la perte d’autonomie financière.
+BalanceMe a pour objectif d’aider les personnes stressées par le manque de visibilité budgétaire à comprendre l’impact réel de chaque achat sur leur situation financière.
+L’application calcule en temps réel le reste-à-vivre et intègre l’émotion liée à l’achat pour accompagner l’utilisateur dans une prise de décision plus consciente.
+
+BalanceMe répond à un besoin clé de visibilité financière, dans un contexte où de nombreuses dépenses sont influencées par les émotions (stress, impulsivité, fatigue).
+Cette perte de contrôle conduit fréquemment à des situations de fragilité.
+
+Le but final est d’éviter le découvert, de réduire le stress financier, et de renforcer la prise de conscience de l’impact de chaque dépense avant qu’elle ne soit concrétisée.
+
+🛟 Contexte social
+
+Avec la nouvelle réglementation limitant le découvert bancaire à –200 € pour les nouveaux comptes, BalanceMe accompagne les publics les plus vulnérables pour éviter les frais, les blocages bancaires et la perte d’autonomie financière.
