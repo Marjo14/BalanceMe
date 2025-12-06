@@ -1,33 +1,75 @@
-🎯 Objectif du projet
+🎯 OBJECTIF DU PROJET :
+BalanceMe a pour objectif d’aider les personnes stressées par le manque de visibilité budgétaire à :
 
-BalanceMe a pour objectif d’aider les personnes stressées par le manque de visibilité budgétaire à comprendre l’impact réel de chaque achat sur leur situation financière.
-L’application calcule en temps réel le reste-à-vivre et intègre l’émotion liée à l’achat pour accompagner l’utilisateur dans une prise de décision plus consciente.
+- comprendre l’impact réel de chaque achat sur leur situation financière
+- calculer automatiquement leur reste-à-vivre
+- intégrer l’émotion dans leur prise de décision financière
+- prendre conscience de leurs comportements d’achat
+- éviter les situations de fragilité budgétaire
 
-BalanceMe répond à un besoin clé de visibilité financière, dans un contexte où de nombreuses dépenses sont influencées par les émotions (stress, impulsivité, fatigue).
-Cette perte de contrôle conduit fréquemment à des situations de fragilité.
+Contexte :
+- De nombreuses dépenses sont guidées par des émotions (stress, impulsivité, fatigue).
+-Le manque de visibilité budgétaire conduit souvent à des décisions rapides et mal évaluées.
+- Le but final est d’éviter le découvert, de réduire le stress financier et d’encourager une prise de décision plus consciente.
 
-Le but final est d’éviter le découvert, de réduire le stress financier, et de renforcer la prise de conscience de l’impact de chaque dépense avant qu’elle ne soit concrétisée.
+🛟 Impact social :
+La nouvelle réglementation limite le découvert bancaire à –200 € pour les nouveaux comptes.
+BalanceMe aide les publics les plus vulnérables à :
+  - éviter les frais et blocages bancaires
+  - préserver leur autonomie financière
+  - sécuriser leur gestion quotidienne
 
-🛟 Contexte social
+🚨 PROBLÈME IDENTIFIÉ :
+Aujourd’hui, de nombreux utilisateurs :
+- manquent de visibilité sur leurs dépenses réelles
+- ont des charges fixes étalées dans le mois, difficiles à visualiser
+- effectuent des achats immédiats ou impulsifs sans vérifier leur budget
+- sont fortement influencés par des émotions (stress, ennui, besoin de réconfort)
+- ne disposent pas d’un outil simple pour mesurer leur reste-à-vivre
+- subissent une fragmentation de leurs comptes et moyens de paiement (virements, sans contact, paiement en 4×)
 
-Avec la nouvelle réglementation limitant le découvert bancaire à –200 € pour les nouveaux comptes, BalanceMe accompagne les publics les plus vulnérables pour éviter les frais, les blocages bancaires et la perte d’autonomie financière.
+Ces comportements entraînent :
+  - des risques accrus de découvert
+  - des blocages bancaires soudains
+  - des frais imprévus
+  - une perte de contrôle budgétaire
+  - un stress financier important
 
+Population particulièrement touchée :
+- publics vulnérables
+- jeunes actifs
+- personnes ayant peu d’éducation financière
+- personnes avec achats émotionnels récurrents
 
-🎯 SECTION : Problème identifié
+🌟 SOLUTION PROPOSÉE : 
+BalanceMe propose une interface principale, mobile-first, qui permet à l’utilisateur de :
 
-Les utilisateurs manquent aujourd’hui de visibilité sur leur budget, car leurs dépenses sont dispersées, et beaucoup d’achats sont réalisés de manière immédiate ou impulsive.
-Leur comportement financier est également influencé par des émotions comme le stress, l’ennui ou le besoin de réconfort, ce qui les pousse à acheter sans évaluer l’impact réel sur leur situation financière.
+🧮 Suivre son budget simplement :
+- renseigner ses revenus
+- ajouter ses dépenses fixes
+- visualiser automatiquement son reste-à-vivre
 
-Cette perte de contrôle augmente fortement le risque de découvert, de blocages bancaires et de frais imprévus, en particulier pour les personnes les plus vulnérables financièrement.
-Cette situation touche particulièrement les publics fragiles, qui manquent de repères clairs pour gérer leur budget au quotidien.
+💸 Évaluer une nouvelle dépense :
+- entrer le montant d’un achat envisagé
+- préciser s’il s’agit d’une dépense :
+- nécessaire (courses, transport, santé, factures)
+- émotionnelle (plaisir, impulsion, compensation)
 
-🌟 Solution proposée
+💛 Comprendre l’émotion derrière l’achat
+  choisir une émotion associée :
+  - stress
+  - ennui
+  - plaisir
+  - besoin de réconfort
 
-BalanceMe propose une approche simple centrée autour d’une interface principale mobile-first.
-L’utilisateur renseigne d’abord ses revenus puis ses dépenses fixes, ce qui permet à l’application de calculer automatiquement son reste-à-vivre.
+🚦 Recevoir une recommandation claire
+BalanceMe analyse l’impact budgétaire et renvoie :
 
-Lorsqu’il envisage une nouvelle dépense, il indique son montant et précise s’il s’agit d’un achat nécessaire (courses, transport, santé, factures) ou émotionnel (plaisir, impulsion, compensation).
-L’application affiche ensuite une courte sélection d’émotions — stress, ennui, plaisir, besoin de réconfort — pour aider l’utilisateur à prendre conscience de son état au moment de l’achat.
+✅ possible
+⚠️ risqué
+❌ impossible
 
-BalanceMe analyse alors l’impact budgétaire et renvoie une réponse claire : possible, risqué, ou impossible, afin de guider l’utilisateur vers une prise de décision plus consciente, plus responsable et adaptée à sa situation financière.
-
+Avec pour objectif :
+- une prise de décision plus consciente
+- une protection contre le découvert
+- une meilleure compréhension des comportements d’achat
