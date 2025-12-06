@@ -110,3 +110,38 @@ Cette étape favorise une prise de conscience avant la décision.
 - structure simple, contrastes clairs, navigation intuitive
 - vocabulaire compréhensible pour les utilisateurs peu familiers avec la finance
 - démarche inclusive alignée avec les critères d’accessibilité attendus au RNCP7
+
+👥 UTILISATEURS CIBLES :
+
+BalanceMe cible deux profils majeurs d’utilisateurs, particulièrement exposés aux difficultés de gestion budgétaire et aux achats émotionnels.
+
+🧑‍🎓 1. Jeunes actifs et étudiants en début d’autonomie
+     - découvrent la gestion de leur budget quotidien
+     - manquent de repères pour anticiper leur reste-à-vivre
+     - sont exposés aux achats impulsifs, notamment via les réseaux sociaux
+     - jonglent avec plusieurs moyens de paiement (sans contact, 4×, virements), ce qui fragmente la visibilité budgétaire
+     - recherchent des outils simples et rapides, adaptés à un usage mobile
+
+🧑‍💼 2. Adultes en situation de vulnérabilité financière
+     - revenus faibles ou irréguliers (CDD, intérim, temps partiel…)
+     - charges fixes étalées dans le mois, difficiles à suivre
+     - forte exposition au stress financier et au risque de découvert
+     - faible accès à une éducation financière structurée
+     - besoin d’un accompagnement accessible et non culpabilisant
+
+⚠️ Difficulté commune : 
+ - Ils n’anticipent pas leur reste-à-vivre, ce qui les conduit à des dépenses non maîtrisées, potentiellement risquées ou impossibles selon leur situation.
+ - Leur prise de décision est souvent influencée par des émotions (stress, ennui, besoin de réconfort).
+
+⭐ Besoin central : Les deux profils ont besoin :
+   - d’une solution simple et immédiate, utilisable sans calcul mental
+   - d’un outil qui évalue automatiquement leur capacité à effectuer une dépense
+   - d’un accompagnement bienveillant pour comprendre l’impact de leurs émotions sur leurs décisions financières
+   - d’un repère clair pour éviter le découvert et réduire le stress budgétaire
+
+🧩 Résultat : Cette définition des utilisateurs cibles constitue la base du futur travail :
+   - Persona 1 → Jeune actif / étudiante
+   - Persona 2 → Adulte vulnérable financièrement
+   - Persona 3 → Optionnel (éventuellement “profil émotionnel”)
+
+Ces profils guideront la construction du User Journey et des Wireframes.
