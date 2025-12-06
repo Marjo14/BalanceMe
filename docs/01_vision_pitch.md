@@ -146,6 +146,7 @@ BalanceMe cible deux profils majeurs d’utilisateurs, particulièrement exposé
 
 Ces profils guideront la construction du User Journey et des Wireframes.
 
+
 🌱 VALEUR AJOUTÉ & IMPACT : 
 BalanceMe apporte une valeur forte à la fois individuelle et sociale, en simplifiant la gestion financière et en aidant les utilisateurs à mieux comprendre leurs décisions d’achat.
 
@@ -162,3 +163,20 @@ BalanceMe apporte une valeur forte à la fois individuelle et sociale, en simpli
 - contribue à réduire le stress financier, lié au manque de visibilité budgétaire
 - aide les publics vulnérables à éviter le découvert, les blocages bancaires et les frais associés
 - participe à renforcer l’autonomie et la responsabilité financière au quotidien
+
+
+📚 CAS D'USAGE PRINCIPAL :
+
+Julie, 22 ans, étudiante, gère seule son budget serré.
+En fin de mois, après une journée stressante, elle voit sur Instagram une promotion pour un vêtement qui lui plaît. Sous l’effet du besoin de réconfort, elle envisage de l’acheter immédiatement.
+
+Avant de passer commande, Julie ouvre BalanceMe :
+- elle consulte son reste-à-vivre, automatiquement mis à jour
+- elle saisit le montant du vêtement
+- elle indique qu’il s’agit d’un achat émotionnel
+- elle sélectionne l’émotion qu’elle ressent : besoin de réconfort
+
+BalanceMe analyse alors son budget et affiche une recommandation :
+- “Dépense risquée”, avec un reste-à-vivre qui deviendrait trop faible.
+
+Julie décide finalement de ne pas acheter, évitant ainsi un potentiel découvert et une décision impulsive qu’elle aurait regrettée.
