@@ -1,4 +1,5 @@
 🎯 OBJECTIF DU PROJET :
+
 BalanceMe a pour objectif d’aider les personnes stressées par le manque de visibilité budgétaire à :
 
 - comprendre l’impact réel de chaque achat sur leur situation financière
@@ -18,8 +19,10 @@ BalanceMe aide les publics les plus vulnérables à :
   - éviter les frais et blocages bancaires
   - préserver leur autonomie financière
   - sécuriser leur gestion quotidienne
+    
 
 🚨 PROBLÈME IDENTIFIÉ :
+
 Aujourd’hui, de nombreux utilisateurs :
 - manquent de visibilité sur leurs dépenses réelles
 - ont des charges fixes étalées dans le mois, difficiles à visualiser
@@ -40,6 +43,7 @@ Population particulièrement touchée :
 - jeunes actifs
 - personnes ayant peu d’éducation financière
 - personnes avec achats émotionnels récurrents
+
 
 🌟 SOLUTION PROPOSÉE : 
 BalanceMe propose une interface principale, mobile-first, qui permet à l’utilisateur de :
