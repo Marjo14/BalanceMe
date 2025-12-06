@@ -145,3 +145,20 @@ BalanceMe cible deux profils majeurs d’utilisateurs, particulièrement exposé
    - Persona 3 → Optionnel (éventuellement “profil émotionnel”)
 
 Ces profils guideront la construction du User Journey et des Wireframes.
+
+🌱 VALEUR AJOUTÉ & IMPACT : 
+BalanceMe apporte une valeur forte à la fois individuelle et sociale, en simplifiant la gestion financière et en aidant les utilisateurs à mieux comprendre leurs décisions d’achat.
+
+⭐ Valeur ajoutée pour l’utilisateur
+- aide à prendre des décisions financières plus conscientes, en combinant budget et émotions
+- simplifie la gestion quotidienne grâce à une interface mobile-first, claire et accessible
+- élimine le calcul mental, grâce au reste-à-vivre automatique
+- favorise la prise de conscience avant un achat, en identifiant l’émotion associée
+- apporte un repère simple : possible / risqué / impossible, pour éviter les mauvaises surprises
+
+🧩 IMPACT SOCIAL : 
+- soutient les personnes ayant peu d’éducation financière, en rendant la gestion du budget compréhensible et visuelle
+- encourage des habitudes de dépenses plus saines et réfléchies, au-delà de l’achat impulsif
+- contribue à réduire le stress financier, lié au manque de visibilité budgétaire
+- aide les publics vulnérables à éviter le découvert, les blocages bancaires et les frais associés
+- participe à renforcer l’autonomie et la responsabilité financière au quotidien
