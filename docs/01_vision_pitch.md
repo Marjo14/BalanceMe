@@ -180,3 +180,40 @@ BalanceMe analyse alors son budget et affiche une recommandation :
 - “Dépense risquée”, avec un reste-à-vivre qui deviendrait trop faible.
 
 Julie décide finalement de ne pas acheter, évitant ainsi un potentiel découvert et une décision impulsive qu’elle aurait regrettée.
+
+
+❓ QUESTION CLÉS : 
+
+1. À quel problème social répond BalanceMe ?
+   - BalanceMe répond au manque d’éducation financière et à la fragilité budgétaire croissante des personnes vulnérables.
+   - L’application aide à prévenir le découvert, les blocages bancaires et le stress financier, qui touchent particulièrement les jeunes actifs, étudiants et personnes à faibles revenus.
+
+2. Pourquoi est-ce important maintenant ?
+   - la limitation du découvert à –200 € fragilise encore plus les publics précaires
+   - les dépenses numériques sont de plus en plus invisibles (sans contact, paiement en 4×)
+   - l’inflation accroît les achats impulsifs liés au stress
+   - aucun outil simple ne combine budget + émotions pour guider l’utilisateur dans ses décisions
+   -les comportements d’achat émotionnels sont en hausse, notamment via les réseaux sociaux
+
+3. Qui est l’utilisateur principal ?
+   - BalanceMe cible principalement :
+   - les jeunes actifs / étudiants débutant dans la gestion financière
+   - les adultes en situation de vulnérabilité budgétaire
+
+Tous ont en commun un manque de visibilité sur leur reste-à-vivre et une exposition aux achats émotionnels.
+
+4. Quelle est la promesse de l’application ?
+
+BalanceMe promet une prise de décision financière simple, consciente et accessible, grâce à :
+   - un calcul automatique du reste-à-vivre
+   - la prise en compte de l’émotion ressentie avant l’achat
+   - une recommandation claire : possible / risqué / impossible
+   - une expérience mobile-first, intuitive, non culpabilisante
+
+5. Quels sont les KPIs (indicateurs de réussite) ?
+   - taux d’utilisateurs ayant évité un achat risqué ou impossible
+   - diminution des achats impulsifs déclarés
+   - augmentation de l’utilisation récurrente de l’interface principale
+   - taux de compréhension du reste-à-vivre (auto-évalué)
+   - réduction du stress financier perçu
+   - rétention mensuelle (utilisateurs actifs / mois)
