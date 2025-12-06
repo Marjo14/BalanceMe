@@ -20,3 +20,13 @@ Leur comportement financier est également influencé par des émotions comme le
 
 Cette perte de contrôle augmente fortement le risque de découvert, de blocages bancaires et de frais imprévus, en particulier pour les personnes les plus vulnérables financièrement.
 Cette situation touche particulièrement les publics fragiles, qui manquent de repères clairs pour gérer leur budget au quotidien.
+
+🌟 Solution proposée
+
+BalanceMe propose une approche simple centrée autour d’une interface principale mobile-first.
+L’utilisateur renseigne d’abord ses revenus puis ses dépenses fixes, ce qui permet à l’application de calculer automatiquement son reste-à-vivre.
+
+Lorsqu’il envisage une nouvelle dépense, il indique son montant et précise s’il s’agit d’un achat nécessaire (courses, transport, santé, factures) ou émotionnel (plaisir, impulsion, compensation).
+L’application affiche ensuite une courte sélection d’émotions — stress, ennui, plaisir, besoin de réconfort — pour aider l’utilisateur à prendre conscience de son état au moment de l’achat.
+
+BalanceMe analyse alors l’impact budgétaire et renvoie une réponse claire : possible, risqué, ou impossible, afin de guider l’utilisateur vers une prise de décision plus consciente, plus responsable et adaptée à sa situation financière.
