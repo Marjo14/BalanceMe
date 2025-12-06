@@ -7,7 +7,7 @@ BalanceMe a pour objectif d’aider les personnes stressées par le manque de vi
 - prendre conscience de leurs comportements d’achat
 - éviter les situations de fragilité budgétaire
 
-Pourquoi maintenant ?
+⏳ Pourquoi maintenant ?
 - la nouvelle réglementation limite le découvert bancaire à –200 € pour les nouveaux comptes
 - l’inflation augmente les achats impulsifs et liés au stress
 - les moyens de paiement numériques rendent les dépenses “invisibles”
@@ -72,18 +72,18 @@ Population particulièrement touchée :
 BalanceMe propose une interface principale mobile-first, pensée pour être simple, accessible et rapide d’usage.
 Elle sera développée avec Angular et Tailwind CSS afin d’assurer une base moderne, performante et responsive.
 
-1. Suivre son budget simplement
+1. 🧮 Suivre son budget simplement
     - renseigner ses revenus
     - ajouter ses dépenses fixes
     - visualiser automatiquement son reste-à-vivre
 
-2. Évaluer une nouvelle dépense
+2. 💸 Évaluer une nouvelle dépense
     - entrer le montant d’un achat envisagé
     - préciser s’il s’agit d’une dépense :
     - nécessaire (courses, transport, santé…)
     - émotionnelle (plaisir, impulsion, compensation)
 
-3. Comprendre l’émotion derrière l’achat
+3. 💛 Comprendre l’émotion derrière l’achat
   L’utilisateur sélectionne une émotion associée :
     - stress
     - ennui
@@ -93,7 +93,7 @@ Elle sera développée avec Angular et Tailwind CSS afin d’assurer une base mo
 
 Cette étape favorise une prise de conscience avant la décision.
 
-4. Recevoir une recommandation claire
+4. 🚦 Recevoir une recommandation claire
     After analysis, BalanceMe indique si la dépense est :
     - ✅ possible
     - ⚠️ risqué
@@ -105,7 +105,7 @@ Cette étape favorise une prise de conscience avant la décision.
 - limiter les achats impulsifs
 - favoriser une meilleure compréhension des habitudes d’achat
 
-👉 ACCESSIBILITÉ ET INCLUSION : 
+♿ ACCESSIBILITÉ ET INCLUSION : 
 - interface pensée en mobile-first
 - structure simple, contrastes clairs, navigation intuitive
 - vocabulaire compréhensible pour les utilisateurs peu familiers avec la finance
