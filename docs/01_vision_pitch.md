@@ -11,3 +11,12 @@ Le but final est d’éviter le découvert, de réduire le stress financier, et 
 🛟 Contexte social
 
 Avec la nouvelle réglementation limitant le découvert bancaire à –200 € pour les nouveaux comptes, BalanceMe accompagne les publics les plus vulnérables pour éviter les frais, les blocages bancaires et la perte d’autonomie financière.
+
+
+🎯 SECTION : Problème identifié
+
+Les utilisateurs manquent aujourd’hui de visibilité sur leur budget, car leurs dépenses sont dispersées, et beaucoup d’achats sont réalisés de manière immédiate ou impulsive.
+Leur comportement financier est également influencé par des émotions comme le stress, l’ennui ou le besoin de réconfort, ce qui les pousse à acheter sans évaluer l’impact réel sur leur situation financière.
+
+Cette perte de contrôle augmente fortement le risque de découvert, de blocages bancaires et de frais imprévus, en particulier pour les personnes les plus vulnérables financièrement.
+Cette situation touche particulièrement les publics fragiles, qui manquent de repères clairs pour gérer leur budget au quotidien.
