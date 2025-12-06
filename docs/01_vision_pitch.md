@@ -30,3 +30,4 @@ Lorsqu’il envisage une nouvelle dépense, il indique son montant et précise s
 L’application affiche ensuite une courte sélection d’émotions — stress, ennui, plaisir, besoin de réconfort — pour aider l’utilisateur à prendre conscience de son état au moment de l’achat.
 
 BalanceMe analyse alors l’impact budgétaire et renvoie une réponse claire : possible, risqué, ou impossible, afin de guider l’utilisateur vers une prise de décision plus consciente, plus responsable et adaptée à sa situation financière.
+
