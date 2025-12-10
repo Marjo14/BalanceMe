@@ -31,14 +31,14 @@ BalanceMe accompagne les publics les plus fragiles pour :
 - utilisent plusieurs moyens de paiement (sans contact, paiement en 4×, virements) qui fragmentent leur vision
 - ne disposent pas d’un outil clair pour calculer leur reste-à-vivre
 
-  Ces comportements entraînent :
+Ces comportements entraînent :
 - un risque accru de découvert
 - des blocages bancaires soudains
 - des frais imprévus
 - une perte de contrôle budgétaire
 - un stress financier important
 
- Populations particulièrement touchées :
+Populations particulièrement touchées :
 - publics vulnérables ou précaires
 - jeunes actifs en début d’autonomie financière
 - personnes sujettes aux achats émotionnels
