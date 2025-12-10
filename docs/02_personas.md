@@ -53,6 +53,8 @@
 - Il sera au centre du User Journey (à venir)
 - Il utilise beaucoup son mobile
 
+---
+
 👤 PERSONNA 2
 
 👤 PERSONNA 2  — Thomas, 34 ans
@@ -101,3 +103,4 @@
 - Il montre que BalanceMe n’est pas seulement une app “anti-découvert” mais une app d'éducation et d'accompagnement
 - Il enrichit la vision sociale de ton projet
 - Il est parfaitement complémentaire d’Émilie
+
