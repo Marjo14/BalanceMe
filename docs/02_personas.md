@@ -53,3 +53,51 @@
 - Il sera au centre du User Journey (à venir)
 - Il utilise beaucoup son mobile
 
+👤 PERSONNA 2
+
+👤 PERSONNA 2  — Thomas, 34 ans
+🧑‍💼 Adulte en bonne situation souhaitant mieux construire son avenir
+🪪 Profil & contexte
+
+- 34 ans, salarié stable avec un revenu confortable
+- Souhaite avancer dans ses projets personnels (voyage, achat important, investissements…)
+- A une bonne situation mais manque d’organisation financière
+- Veut optimiser son budget sans se priver complètement
+- Très sensible aux petites dépenses plaisir qui s’accumulent sans qu’il s’en rende compte
+
+🎯 OBJECTIFS : 
+- Éviter les achats impulsifs qui freinent ses efforts d’épargne
+- Réduire sa charge mentale liée à la gestion du budget
+- Avoir une vision claire de son reste-à-vivre mensuel
+- Construire de meilleures habitudes financières pour son avenir
+- Prévoir l’impact d’une dépense avant de l’effectuer
+
+😣 FRUSTRATIONS :
+- N’arrive pas à anticiper l’impact d’un achat sur le reste du mois
+- A l’impression que les petites dépenses inutiles l’empêchent d’avancer
+- Se sent parfois frustré de ne pas tenir ses objectifs financiers
+- Les outils bancaires ne l’aident pas à visualiser l’impact réel des dépenses futures
+
+🔄 COMPORTEMENT ACTUELS : 
+- Cède parfois à un achat plaisir, puis le regrette par la suite
+- A déjà essayé de tenir un tableau Excel, mais l’a abandonné rapidement
+- Regarde son solde bancaire, mais ne fait pas le lien avec ses projets
+- Attend souvent la fin du mois pour “faire le point”, mais trop tard
+
+💛 BESOINS PROFONDS : 
+- Un outil simple qui l’aide à évaluer l’impact d’une dépense avant de l’effectuer
+- Une interface claire qui ne nécessite pas de calculs
+- Une approche bienveillante : pas de jugement, mais des repères
+- Une méthode pour mieux comprendre les achats émotionnels et leur impact
+- Un système d’alerte simple : possible / risqué / impossible
+
+🗣️ CITATION CLÉ :
+
+« Je voudrais garder le plaisir d’acheter sans compromettre mes objectifs. »
+
+🎓 POURQUOI ESSENTIEL À BalanceMe ?
+- Il représente un public non précaire mais vulnérable émotionnellement
+- Il illustre un besoin de discipline financière douce
+- Il montre que BalanceMe n’est pas seulement une app “anti-découvert” mais une app d'éducation et d'accompagnement
+- Il enrichit la vision sociale de ton projet
+- Il est parfaitement complémentaire d’Émilie
