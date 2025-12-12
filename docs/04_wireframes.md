@@ -1,6 +1,9 @@
-# 🧩 Wireframes – Application BalanceMe (MVP mobile-first)
+# 🧩 Wireframes – Application BalanceMe (MVP mobile-first) : 
 
 Les wireframes ci-dessous présentent l’architecture fonctionnelle du MVP BalanceMe.  
+
+https://www.figma.com/design/2Vu4J6yLkhqhuKeK3JJ0Vq/BalanceMe-Wireframe?node-id=429-2278&p=f&t=PhwfrB4r2YC6ZYPc-0
+
 Ils suivent un parcours simple en trois étapes :  
 1. saisir une dépense,  
 2. préciser son type (nécessaire ou émotionnelle),  
